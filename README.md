@@ -296,10 +296,10 @@ This project is licensed under the [MIT License](./LICENSE).
 
 <div align="center">
 
-**NaviROS** · Built by [Umut Cansın Torgaylı,Deniz Ozan Yıldırım,Berkan Aydoğan](https://github.com/UmutCansinTorgayli)
+**NaviROS** · Built by [Umut Cansın Torgaylı](https://github.com/UmutCansinTorgayli)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/UmutCansinTorgayli)
 
 *"Robotics is not just about building machines — it's about solving the hard parts of the real world."*
 
