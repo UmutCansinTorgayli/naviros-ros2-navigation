@@ -1,6 +1,0 @@
-[console_scripts]
-driver_node = serial_motor_demo.driver_node:main
-laser_sync = serial_motor_demo.laser_sync:main
-odom_node = serial_motor_demo.odom_node:main
-teleop_wasd = serial_motor_demo.teleop_wasd:main
-
