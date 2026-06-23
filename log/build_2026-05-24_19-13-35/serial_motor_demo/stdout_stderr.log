@@ -1,0 +1,52 @@
+running egg_info
+creating ../../build/serial_motor_demo/serial_motor_demo.egg-info
+writing ../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+writing dependency_links to ../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+writing entry points to ../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+writing requirements to ../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+writing top-level names to ../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+reading manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/proje/ros2_ws/build/serial_motor_demo/build
+creating /home/proje/ros2_ws/build/serial_motor_demo/build/lib
+creating /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+copying serial_motor_demo/__init__.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+copying serial_motor_demo/teleop_wasd.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+copying serial_motor_demo/driver_node.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+copying serial_motor_demo/odom_node.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+copying serial_motor_demo/laser_sync.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+running install
+running install_lib
+creating /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/__init__.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/teleop_wasd.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/driver_node.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/odom_node.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/laser_sync.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/teleop_wasd.py to teleop_wasd.cpython-310.pyc
+byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/driver_node.py to driver_node.cpython-310.pyc
+byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/odom_node.py to odom_node.cpython-310.pyc
+byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/laser_sync.py to laser_sync.cpython-310.pyc
+running install_data
+creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index
+creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index
+creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+copying resource/serial_motor_demo -> /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+copying package.xml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo
+creating /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/launch
+copying launch/robot_slam_launch.py -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/launch
+creating /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config
+copying config/mapper_params_online_async.yaml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config
+copying config/mapper_lidar_only.yaml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config
+running install_egg_info
+Copying ../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo-0.0.0-py3.10.egg-info
+running install_scripts
+Installing driver_node script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+Installing laser_sync script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+Installing odom_node script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+Installing teleop_wasd script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+writing list of installed files to '/home/proje/ros2_ws/build/serial_motor_demo/install.log'

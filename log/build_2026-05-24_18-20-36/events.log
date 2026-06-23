@@ -1,0 +1,102 @@
+[0.000000] (-) TimerEvent: {}
+[0.001232] (-) JobUnselected: {'identifier': 'rf2o_laser_odometry'}
+[0.001447] (serial_motor_demo) JobQueued: {'identifier': 'serial_motor_demo', 'dependencies': OrderedDict()}
+[0.001733] (serial_motor_demo) JobStarted: {'identifier': 'serial_motor_demo'}
+[0.098015] (-) TimerEvent: {}
+[0.198648] (-) TimerEvent: {}
+[0.299427] (-) TimerEvent: {}
+[0.400210] (-) TimerEvent: {}
+[0.501052] (-) TimerEvent: {}
+[0.601651] (-) TimerEvent: {}
+[0.702268] (-) TimerEvent: {}
+[0.802907] (-) TimerEvent: {}
+[0.903524] (-) TimerEvent: {}
+[1.004202] (-) TimerEvent: {}
+[1.104821] (-) TimerEvent: {}
+[1.205685] (-) TimerEvent: {}
+[1.306887] (-) TimerEvent: {}
+[1.407703] (-) TimerEvent: {}
+[1.508463] (-) TimerEvent: {}
+[1.609199] (-) TimerEvent: {}
+[1.709804] (-) TimerEvent: {}
+[1.810452] (-) TimerEvent: {}
+[1.911136] (-) TimerEvent: {}
+[2.011769] (-) TimerEvent: {}
+[2.112446] (-) TimerEvent: {}
+[2.213094] (-) TimerEvent: {}
+[2.313814] (-) TimerEvent: {}
+[2.414583] (-) TimerEvent: {}
+[2.515707] (-) TimerEvent: {}
+[2.616583] (-) TimerEvent: {}
+[2.717709] (-) TimerEvent: {}
+[2.819086] (-) TimerEvent: {}
+[2.821475] (serial_motor_demo) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/serial_motor_demo', 'build', '--build-base', '/home/proje/ros2_ws/build/serial_motor_demo/build', 'install', '--record', '/home/proje/ros2_ws/build/serial_motor_demo/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/proje/ros2_ws/src/serial_motor_demo', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'proje', 'SSH_CLIENT': '192.168.1.7 55716 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/proje', 'OLDPWD': '/home/proje/ros2_ws', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/proje/ros2_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'proje', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '1', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/proje/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'en_US.UTF-8', 'RMW_IMPLEMENTATION': 'rmw_fastrtps_cpp', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'ROS_DOMAIN_ID': '1', 'AMENT_PREFIX_PATH': '/home/proje/ros2_ws/install/serial_motor_demo:/opt/ros/humble', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PWD': '/home/proje/ros2_ws/build/serial_motor_demo', 'LC_ALL': 'en_US.UTF-8', 'SSH_CONNECTION': '192.168.1.7 55716 192.168.1.6 22', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/proje/ros2_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages:/home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[2.919292] (-) TimerEvent: {}
+[3.019914] (-) TimerEvent: {}
+[3.120557] (-) TimerEvent: {}
+[3.221198] (-) TimerEvent: {}
+[3.321805] (-) TimerEvent: {}
+[3.422440] (-) TimerEvent: {}
+[3.523031] (-) TimerEvent: {}
+[3.623657] (-) TimerEvent: {}
+[3.724378] (-) TimerEvent: {}
+[3.824980] (-) TimerEvent: {}
+[3.919580] (serial_motor_demo) StdoutLine: {'line': b'running egg_info\n'}
+[3.925675] (-) TimerEvent: {}
+[3.926181] (serial_motor_demo) StdoutLine: {'line': b'creating ../../build/serial_motor_demo/serial_motor_demo.egg-info\n'}
+[3.926768] (serial_motor_demo) StdoutLine: {'line': b'writing ../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO\n'}
+[3.927487] (serial_motor_demo) StdoutLine: {'line': b'writing dependency_links to ../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt\n'}
+[3.928421] (serial_motor_demo) StdoutLine: {'line': b'writing entry points to ../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt\n'}
+[3.929058] (serial_motor_demo) StdoutLine: {'line': b'writing requirements to ../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt\n'}
+[3.929647] (serial_motor_demo) StdoutLine: {'line': b'writing top-level names to ../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt\n'}
+[3.930581] (serial_motor_demo) StdoutLine: {'line': b"writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'\n"}
+[3.938380] (serial_motor_demo) StdoutLine: {'line': b"reading manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'\n"}
+[3.942256] (serial_motor_demo) StdoutLine: {'line': b"writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'\n"}
+[3.942882] (serial_motor_demo) StdoutLine: {'line': b'running build\n'}
+[3.943356] (serial_motor_demo) StdoutLine: {'line': b'running build_py\n'}
+[3.943883] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/build/serial_motor_demo/build\n'}
+[3.944515] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/build/serial_motor_demo/build/lib\n'}
+[3.944985] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo\n'}
+[3.945317] (serial_motor_demo) StdoutLine: {'line': b'copying serial_motor_demo/__init__.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo\n'}
+[3.945815] (serial_motor_demo) StdoutLine: {'line': b'copying serial_motor_demo/teleop_wasd.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo\n'}
+[3.946977] (serial_motor_demo) StdoutLine: {'line': b'copying serial_motor_demo/driver_node.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo\n'}
+[3.948411] (serial_motor_demo) StdoutLine: {'line': b'copying serial_motor_demo/odom_node.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo\n'}
+[3.949724] (serial_motor_demo) StdoutLine: {'line': b'copying serial_motor_demo/laser_sync.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo\n'}
+[3.951376] (serial_motor_demo) StdoutLine: {'line': b'running install\n'}
+[3.952709] (serial_motor_demo) StdoutLine: {'line': b'running install_lib\n'}
+[3.956433] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo\n'}
+[3.957066] (serial_motor_demo) StdoutLine: {'line': b'copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/__init__.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo\n'}
+[3.957608] (serial_motor_demo) StdoutLine: {'line': b'copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/teleop_wasd.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo\n'}
+[3.958450] (serial_motor_demo) StdoutLine: {'line': b'copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/driver_node.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo\n'}
+[3.959259] (serial_motor_demo) StdoutLine: {'line': b'copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/odom_node.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo\n'}
+[3.960082] (serial_motor_demo) StdoutLine: {'line': b'copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/laser_sync.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo\n'}
+[3.962723] (serial_motor_demo) StdoutLine: {'line': b'byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/__init__.py to __init__.cpython-310.pyc\n'}
+[3.964197] (serial_motor_demo) StdoutLine: {'line': b'byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/teleop_wasd.py to teleop_wasd.cpython-310.pyc\n'}
+[3.967424] (serial_motor_demo) StdoutLine: {'line': b'byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/driver_node.py to driver_node.cpython-310.pyc\n'}
+[3.971136] (serial_motor_demo) StdoutLine: {'line': b'byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/odom_node.py to odom_node.cpython-310.pyc\n'}
+[3.975865] (serial_motor_demo) StdoutLine: {'line': b'byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/laser_sync.py to laser_sync.cpython-310.pyc\n'}
+[3.977206] (serial_motor_demo) StdoutLine: {'line': b'running install_data\n'}
+[3.978426] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index\n'}
+[3.979469] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index\n'}
+[3.980397] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index/packages\n'}
+[3.980996] (serial_motor_demo) StdoutLine: {'line': b'copying resource/serial_motor_demo -> /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index/packages\n'}
+[3.981448] (serial_motor_demo) StdoutLine: {'line': b'copying package.xml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo\n'}
+[3.981741] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/launch\n'}
+[3.982037] (serial_motor_demo) StdoutLine: {'line': b'copying launch/robot_slam_launch.py -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/launch\n'}
+[3.982546] (serial_motor_demo) StdoutLine: {'line': b'creating /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config\n'}
+[3.982984] (serial_motor_demo) StdoutLine: {'line': b'copying config/mapper_params_online_async.yaml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config\n'}
+[3.983558] (serial_motor_demo) StdoutLine: {'line': b'copying config/mapper_lidar_only.yaml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config\n'}
+[3.984598] (serial_motor_demo) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.991627] (serial_motor_demo) StdoutLine: {'line': b'Copying ../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo-0.0.0-py3.10.egg-info\n'}
+[3.998675] (serial_motor_demo) StdoutLine: {'line': b'running install_scripts\n'}
+[4.025870] (-) TimerEvent: {}
+[4.080399] (serial_motor_demo) StdoutLine: {'line': b'Installing driver_node script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo\n'}
+[4.081099] (serial_motor_demo) StdoutLine: {'line': b'Installing laser_sync script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo\n'}
+[4.081675] (serial_motor_demo) StdoutLine: {'line': b'Installing odom_node script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo\n'}
+[4.082198] (serial_motor_demo) StdoutLine: {'line': b'Installing teleop_wasd script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo\n'}
+[4.083693] (serial_motor_demo) StdoutLine: {'line': b"writing list of installed files to '/home/proje/ros2_ws/build/serial_motor_demo/install.log'\n"}
+[4.126170] (-) TimerEvent: {}
+[4.209349] (serial_motor_demo) CommandEnded: {'returncode': 0}
+[4.226277] (-) TimerEvent: {}
+[4.259134] (serial_motor_demo) JobEnded: {'identifier': 'serial_motor_demo', 'rc': 0}
+[4.261708] (-) EventReactorShutdown: {}

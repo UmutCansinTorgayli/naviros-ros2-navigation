@@ -1,0 +1,53 @@
+[2.547s] Invoking command in '/home/proje/ros2_ws/src/serial_motor_demo': PYTHONPATH=/home/proje/ros2_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_motor_demo build --build-base /home/proje/ros2_ws/build/serial_motor_demo/build install --record /home/proje/ros2_ws/build/serial_motor_demo/install.log --single-version-externally-managed install_data
+[3.508s] running egg_info
+[3.511s] creating ../../build/serial_motor_demo/serial_motor_demo.egg-info
+[3.511s] writing ../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+[3.513s] writing dependency_links to ../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+[3.513s] writing entry points to ../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+[3.514s] writing requirements to ../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+[3.514s] writing top-level names to ../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+[3.515s] writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[3.522s] reading manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[3.526s] writing manifest file '../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[3.526s] running build
+[3.526s] running build_py
+[3.527s] creating /home/proje/ros2_ws/build/serial_motor_demo/build
+[3.528s] creating /home/proje/ros2_ws/build/serial_motor_demo/build/lib
+[3.528s] creating /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[3.528s] copying serial_motor_demo/__init__.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[3.529s] copying serial_motor_demo/teleop_wasd.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[3.529s] copying serial_motor_demo/driver_node.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[3.530s] copying serial_motor_demo/odom_node.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[3.531s] copying serial_motor_demo/laser_sync.py -> /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo
+[3.532s] running install
+[3.533s] running install_lib
+[3.536s] creating /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[3.537s] copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/__init__.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[3.537s] copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/teleop_wasd.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[3.538s] copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/driver_node.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[3.539s] copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/odom_node.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[3.539s] copying /home/proje/ros2_ws/build/serial_motor_demo/build/lib/serial_motor_demo/laser_sync.py -> /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[3.542s] byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/__init__.py to __init__.cpython-310.pyc
+[3.543s] byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/teleop_wasd.py to teleop_wasd.cpython-310.pyc
+[3.546s] byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/driver_node.py to driver_node.cpython-310.pyc
+[3.549s] byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/odom_node.py to odom_node.cpython-310.pyc
+[3.553s] byte-compiling /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/laser_sync.py to laser_sync.cpython-310.pyc
+[3.554s] running install_data
+[3.555s] creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index
+[3.556s] creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index
+[3.556s] creating /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+[3.556s] copying resource/serial_motor_demo -> /home/proje/ros2_ws/install/serial_motor_demo/share/ament_index/resource_index/packages
+[3.557s] copying package.xml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo
+[3.557s] creating /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/launch
+[3.558s] copying launch/robot_slam_launch.py -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/launch
+[3.558s] creating /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config
+[3.559s] copying config/mapper_lidar_only.yaml -> /home/proje/ros2_ws/install/serial_motor_demo/share/serial_motor_demo/config
+[3.559s] running install_egg_info
+[3.566s] Copying ../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo-0.0.0-py3.10.egg-info
+[3.571s] running install_scripts
+[3.649s] Installing driver_node script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+[3.649s] Installing laser_sync script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+[3.650s] Installing odom_node script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+[3.651s] Installing teleop_wasd script to /home/proje/ros2_ws/install/serial_motor_demo/lib/serial_motor_demo
+[3.652s] writing list of installed files to '/home/proje/ros2_ws/build/serial_motor_demo/install.log'
+[3.767s] Invoked command in '/home/proje/ros2_ws/src/serial_motor_demo' returned '0': PYTHONPATH=/home/proje/ros2_ws/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/proje/ros2_ws/install/serial_motor_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/serial_motor_demo build --build-base /home/proje/ros2_ws/build/serial_motor_demo/build install --record /home/proje/ros2_ws/build/serial_motor_demo/install.log --single-version-externally-managed install_data

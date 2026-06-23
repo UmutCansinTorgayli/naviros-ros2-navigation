@@ -1,0 +1,24 @@
+slam_toolbox:
+  ros__parameters:
+    # Kuşak ve Çerçeve Ayarları
+    odom_frame: odom
+    base_frame: base_link
+    scan_frame: laser
+    map_frame: map
+
+    # Harita Çözünürlük Ayarları
+    resolution: 0.05
+    max_laser_range: 12.0
+    use_sim_time: false
+
+    # Zaman Aşımı Esneklikleri (Senkronizasyon için)
+    transform_timeout: 0.8
+    tf_buffer_duration: 30.0
+
+    # Başlık Tanımı (Senin laser_sync düğümün buraya basıyor)
+    scan_topic: /scan
+
+    # Harita Motoru Seçimi
+    solver_plugin: solver_plugins::CeresSolver
+    ceres_linear_solver: SPARSED_CHOLESKY
+    ceres_preconditioner: SCHUR_JACOBI
