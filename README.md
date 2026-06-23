@@ -31,7 +31,7 @@
 
 ----
 
-## 🔍 Project Overview
+## 🔍 Project Overview.
 
 **NaviROS** is a fully custom autonomous mobile robot designed to tackle real-world navigation challenges from the ground up. It integrates every layer of the robotics stack — from raw sensor data to motor output — on a compact, two-wheeled differential-drive chassis.
 
