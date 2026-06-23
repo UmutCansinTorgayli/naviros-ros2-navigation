@@ -286,12 +286,21 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
+---
+
+## 👥 Core Development Team
+
+The NaviROS platform was engineered as a collaborative capstone project by a core team of three engineers:
+
+| Developer | Core Responsibility | Professional Profiles |
+| :--- | :--- | :--- |
+| **Umut Cansın Torgaylı** | ROS2 Core Architecture, Custom Torque Filtering & State Estimation | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/UmutCansinTorgayli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
+| **[Berkan Aydoğan]** | SLAM Toolbox Tuning, Navigation Costmaps & Path Planning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
+| **[Deniz Ozan Yıldırım]** | Embedded Arduino Firmware, Low-Level Actuator Control & Fail-Safes | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
+
+---
+
 <div align="center">
-
-**NaviROS** · Built by [Umut Cansın Torgaylı](https://github.com/UmutCansinTorgayli)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/UmutCansinTorgayli)
 
 *"Robotics is not just about building machines — it's about solving the hard parts of the real world."*
 
