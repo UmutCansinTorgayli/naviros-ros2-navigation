@@ -296,7 +296,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 <div align="center">
 
-**NaviROS** · Built by [Your Name](https://github.com/yourusername)
+**NaviROS** · Built by [Umut Cansın Torgaylı,Deniz Ozan Yıldırım,Berkan Aydoğan](https://github.com/UmutCansinTorgayli)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/yourusername)
