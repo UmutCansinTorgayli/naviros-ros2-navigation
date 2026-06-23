@@ -295,8 +295,8 @@ The NaviROS platform was engineered as a collaborative capstone project by a cor
 | Developer | Core Responsibility | Professional Profiles |
 | :--- | :--- | :--- |
 | **Umut Cansın Torgaylı** | ROS2 Core Architecture, Custom Torque Filtering & State Estimation | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/UmutCansinTorgayli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
-| **[Berkan Aydoğan]** | SLAM Toolbox Tuning, Navigation Costmaps & Path Planning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
-| **[Deniz Ozan Yıldırım]** | Embedded Arduino Firmware, Low-Level Actuator Control & Fail-Safes | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
+| **Berkan Aydoğan** | SLAM Toolbox Tuning, Navigation Costmaps & Path Planning | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
+| **Deniz Ozan Yıldırım** | Embedded Arduino Firmware, Low-Level Actuator Control & Fail-Safes | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/) |
 
 ---
 
