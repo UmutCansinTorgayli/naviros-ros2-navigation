@@ -50,24 +50,16 @@ The entire vertical stack — from Lidar scan → SLAM/Odometry fusion → Globa
 
 <table>
   <tr>
-    <td align="center"><img src="./robot_front.jpg" width="320"/><br/><sub><b>Front View — Lidar & Electronics Stack</b></sub></td>
-    <td align="center"><img src="./robot_side_left.jpg" width="320"/><br/><sub><b>Side View — Full Assembly</b></sub></td>
+    <td align="center"><img src="./robot_front.jpg" width="400"/><br/><sub><b>Front View — LiDAR & Electronics Stack</b></sub></td>
+    <td align="center"><img src="./robot_side_left.jpg" width="400"/><br/><sub><b>Side View — Full Assembly</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="./robot_rear.jpg" width="320"/><br/><sub><b>Rear View — Raspberry Pi 4 Visible</b></sub></td>
-    <td align="center"><img src="./robot_side_full.jpg" width="320"/><br/><sub><b>Side Profile — Drive Wheels & Power Layer</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./robot_top.jpg" width="320"/><br/><sub><b>Top View — Lidar Mounted, LEDs Active</b></sub></td>
-    <td align="center"><img src="./robot_top_lit.jpg" width="320"/><br/><sub><b>Top View — Lidar Lock Indicator (Green LED)</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="./robot_side_right.jpg" width="320"/><br/><sub><b>3/4 View — Complete Hardware Integration</b></sub></td>
+    <td align="center"><img src="./robot_rear.jpg" width="400"/><br/><sub><b>Rear View — Raspberry Pi 4</b></sub></td>
+    <td align="center"><img src="./robot_top.jpg" width="400"/><br/><sub><b>Top View — LiDAR Mount</b></sub></td>
   </tr>
 </table>
 
-> **Hardware highlights visible in photos:** 360° Lidar on top deck · Raspberry Pi 4 (4GB) mid-chassis · Arduino + custom motor driver on lower deck · LiPo battery pack · differential drive with encoder wheels · status LEDs (red = power, green = Lidar lock)
-
+> **Hardware highlights visible in photos:** 360° LiDAR on top deck · Raspberry Pi 4 (4GB) mid-chassis · Arduino + custom motor driver on lower deck · LiPo battery pack · differential drive with encoder wheels.
 ---
 
 ## ⚡ Key Technical Achievements
